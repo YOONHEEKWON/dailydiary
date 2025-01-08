@@ -1,6 +1,6 @@
 import Button from "./Button";
 import DiaryItem from "./DiaryItem";
-import "./diarylist.css";
+import "./diaryList.css";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 export default function DiaryList({ data }) {
